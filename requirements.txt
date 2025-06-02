@@ -1,12 +1,6 @@
-pandas == 1.5.1 
-matplotlib == 3.7.1
-keplergl == 0.3.2
-plotly
-streamlit==1.35.0
-streamlit-keplergl
-keplergl
-plotly
+streamlit
 pandas
-numpy
-Pillow
-
+matplotlib
+plotly
+streamlit_keplergl
+pillow
